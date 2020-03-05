@@ -5,6 +5,7 @@ metadata:
   labels:
     tuan: test
     tuan2: test2
+    tuan3: test3
 spec:
   ports:
   - port: 80
