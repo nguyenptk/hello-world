@@ -4,6 +4,7 @@ metadata:
   name: guestbook-ui
   labels:
     tuan: test
+    tuan2: test2
 spec:
   ports:
   - port: 80
